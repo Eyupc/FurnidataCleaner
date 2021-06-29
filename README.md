@@ -10,6 +10,6 @@ You just have to adjust the config and change the paths.
 
 And start the program:  java -jar FurnidataCleaner.jar
 
-DC: Eyup#3420
+DC: Eyup#1155
 
 
